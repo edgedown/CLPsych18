@@ -18,12 +18,12 @@ python -m spacy download en
 
 ## Notebooks
 
-1. [Data exploration](0. Data exploration.ipynb)
-1. [Preparing data.ipynb](1. Preparing data.ipynb)
-1. [Train models](2. Train models.ipynb)
-1. [Make test predictions](3. Make test predictions.ipynb)
-1. [EXPERIMENTAL Feature Selection](4. Feature Selection.ipynb)
-1. [EXPERIMENTAL fastText features](5. fastText features.ipynb)
-1. [Analysis](6. Analysis.ipynb)
-1. [Fairness](7. Fairness.ipynb)
-1. [ROC for triage scenario](8. ROC for triage analysis.ipynb)
+1. [Data exploration](0-Data-exploration.ipynb)
+1. [Preparing data.ipynb](1-Preparing-data.ipynb)
+1. [Train models](2-Train-models.ipynb)
+1. [Make test predictions](3-Make-test-predictions.ipynb)
+1. [EXPERIMENTAL Feature Selection](4-Feature-Selection.ipynb)
+1. [EXPERIMENTAL fastText features](5-fastText-features.ipynb)
+1. [Analysis](6-Analysis.ipynb)
+1. [Fairness](7-Fairness.ipynb)
+1. [ROC for triage scenario](8-ROC-for-triage-analysis.ipynb)
