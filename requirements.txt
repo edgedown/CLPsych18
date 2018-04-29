@@ -1,0 +1,7 @@
+jupyter
+scikit-learn
+seaborn
+scipy
+spacy
+pyenchant
+readability
